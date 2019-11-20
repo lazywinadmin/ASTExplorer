@@ -8,6 +8,6 @@ I cannot take credit for all of the code. I just revamped another project that u
 
 ## Other Information
 
-**Author:** Zachary Loeber
-**Website:** http://www.the-little-things.net
-**Github:** https://github.com/zloeber/ASTExplorer
+* **Author:** Zachary Loeber
+* **Website:** http://www.the-little-things.net
+* **Github:** https://github.com/zloeber/ASTExplorer
